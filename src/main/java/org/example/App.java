@@ -12,5 +12,7 @@ public class App {
         System.out.println("stash01");
         System.out.println("c1");
         System.out.println("aaa");
+        System.out.println("bbb");
+
     }
 }
